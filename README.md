@@ -1,1 +1,1 @@
-# super-hunter
+# Superhero-Hunter
